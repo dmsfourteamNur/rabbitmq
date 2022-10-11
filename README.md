@@ -1,1 +1,9 @@
-# rabbitmq
+# DMSNUR RabbitMq
+
+
+```bash
+
+sudo docker-compose up
+
+
+```
